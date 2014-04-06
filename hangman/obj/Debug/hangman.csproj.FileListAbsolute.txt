@@ -1,0 +1,9 @@
+c:\users\kk\documents\visual studio 2012\Projects\hangman\hangman\bin\Debug\hangman.exe.config
+C:\Users\kk\documents\visual studio 2012\Projects\hangman\hangman\obj\Debug\hangman.csprojResolveAssemblyReference.cache
+C:\Users\kk\documents\visual studio 2012\Projects\hangman\hangman\obj\Debug\hangman.Form1.resources
+C:\Users\kk\documents\visual studio 2012\Projects\hangman\hangman\obj\Debug\hangman.Properties.Resources.resources
+C:\Users\kk\documents\visual studio 2012\Projects\hangman\hangman\obj\Debug\hangman.csproj.GenerateResource.Cache
+C:\Users\kk\documents\visual studio 2012\Projects\hangman\hangman\bin\Debug\hangman.exe
+C:\Users\kk\documents\visual studio 2012\Projects\hangman\hangman\bin\Debug\hangman.pdb
+C:\Users\kk\documents\visual studio 2012\Projects\hangman\hangman\obj\Debug\hangman.exe
+C:\Users\kk\documents\visual studio 2012\Projects\hangman\hangman\obj\Debug\hangman.pdb
