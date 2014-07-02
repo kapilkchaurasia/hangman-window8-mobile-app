@@ -113,7 +113,7 @@ namespace hangman
                 label2.Text += kapil.ToString() + " ";
                 drawbody((bodypart)counter);
                 counter++;
-                if (counter == 5) { MessageBox.Show("u over motherfucker"); }
+                if (counter == 5) { MessageBox.Show("u over "); }
             }
             
             
